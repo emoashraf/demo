@@ -1,10 +1,10 @@
 {
-    "typing_speed": 2.848786976075191,
-    "avg_hold_time": 0.09892718415511281,
-    "flight_time": 0.2589024724187078,
-    "total_keys": 38,
-    "typing_variance": 0.0023165260351002003,
-    "mouse_distance": 1413.005546752748,
+    "typing_speed": 22.68672242486501,
+    "avg_hold_time": 0.08287834167480469,
+    "flight_time": -0.04043724139531454,
+    "total_keys": 25,
+    "typing_variance": 0.0010776627829840436,
+    "mouse_distance": 1564.3330901129511,
     "clicks": 0,
     "idle_time": 0
 }
